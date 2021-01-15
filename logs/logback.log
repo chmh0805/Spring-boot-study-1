@@ -1,0 +1,2 @@
+[2021-01-15 18:32:48:12888][http-nio-8080-exec-3] WARN  com.cos.study.config.BindingAdvice - com.cos.study.web.UserController.update() => 필드 : password, 메시지 : 비밀번호를 입력하세요.
+[2021-01-15 18:54:54:103496][http-nio-8080-exec-2] WARN  com.cos.study.config.BindingAdvice - com.cos.study.web.UserController.update() => 필드 : password, 메시지 : 비밀번호를 입력하세요.
